@@ -14,6 +14,12 @@ Once you have downloaded the file, follow the steps below
 
 ## How to Keep and Run the File
 
+**Microsoft Edge**:
+
+* Click the three dots next to the button `Delete`
+* Select `Keep`. You will then be redirected to the Microsoft Edge `Downloads` Page
+* A pop-up will occur. Click on `Show More` and select `Keep Anyway`
+
 **Google Chrome**: <br />
 You will notice a bar at the bottom of your screen that shows the downloaded file
 
@@ -24,9 +30,3 @@ You will notice a bar at the bottom of your screen that shows the downloaded fil
 You will get a pop-up stating whether or not you'd like to save the file
 
 * Click `Save File`
-
-**Microsoft Edge**:
-
-* Click the three dots next to the button `Delete`
-* Select `Keep`. You will then be redirected to the Microsoft Edge `Downloads` Page
-* A pop-up will occur. Click on `Show More` and select `Keep Anyway`
