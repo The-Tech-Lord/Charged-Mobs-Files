@@ -7,3 +7,28 @@ Place where my friends can download the creations I make!
 ![Snake Game Folder](./README/Snake-Game-Folder.png/)
 1. Click on the file that ends in `.exe`:
 ![Snake Game Files](./README/Snake-Game-Files.png/)
+1. Click the Download Button:
+![How To Download a File](./README/How-To-Download-File.png/)
+
+
+
+
+
+
+
+# How to Keep and Run the File
+
+**Google Chrome**:
+1. Download the `.exe` file
+2. Click the arrow next to the button "Discard"
+3. Select "Keep"
+
+**Firefox**:
+1. Download the `.exe` file
+2. You will get a pop-up stating whether or not you'd like to save the file, "click Save File"
+
+**Microsoft Edge**:
+1. Download the `.exe` file
+2. Click the three dots next to the button "Delete"
+3. Select "Keep". You will then be redirected to the Microsoft Edge "Downloads" Page
+4. A pop-up will occur. Click on "Show More" and select "Keep Anyway"
