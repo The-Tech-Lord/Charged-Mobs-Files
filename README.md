@@ -14,6 +14,13 @@ Once you have downloaded the file, follow the steps below
 
 ## How to Keep and Run the File
 
+**Internet Explorer**:
+
+* Click the `Save` button or the `Run` button
+* Click the `Actions` button
+* Click the `More Options` dropdown button
+* Press `Run Anyway`
+
 **Microsoft Edge**:
 
 * Click the three dots next to the button `Delete`
