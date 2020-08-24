@@ -15,15 +15,18 @@ Once you have downloaded the file, follow the steps below
 ## How to Keep and Run the File
 
 **Google Chrome**: <br />
-al;sdjf;lakjsdlf
+You will notice a bar at the bottom of your screen that shows the downloaded file
+
 * Click the arrow next to the button `Discard`
 * Select `Keep`
 
-**Firefox**:
+**Firefox**: <br />
 You will get a pop-up stating whether or not you'd like to save the file
+
 * Click `Save File`
 
 **Microsoft Edge**:
+
 * Click the three dots next to the button `Delete`
 * Select `Keep`. You will then be redirected to the Microsoft Edge `Downloads` Page
 * A pop-up will occur. Click on `Show More` and select `Keep Anyway`
