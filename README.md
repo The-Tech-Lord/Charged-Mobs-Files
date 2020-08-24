@@ -1,7 +1,7 @@
 # Charged Mobs Files
 Place where my friends can download the creations I make!
 
-# How to Download a File
+## How to Download a File
 
 1. Click on the folder which contains the file you want to download:
 ![Snake Game Folder](./README/Snake-Game-Folder.png/)
@@ -16,7 +16,7 @@ Place where my friends can download the creations I make!
 
 
 
-# How to Keep and Run the File
+## How to Keep and Run the File
 
 **Google Chrome**:
 1. Download the `.exe` file
