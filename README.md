@@ -20,7 +20,7 @@ Once you have downloaded the file, follow the steps below
 
 **Firefox**:
 You will get a pop-up stating whether or not you'd like to save the file
-i. Click `Save File`
+* Click `Save File`
 
 **Microsoft Edge**:
 1. Click the three dots next to the button `Delete`
