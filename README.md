@@ -1,11 +1,11 @@
 # Charged Mobs Files
 Place where my friends can download the creations I make!
 
-## How to Download a File
+## How to Download an Executable File
 
 1. Click on the folder which contains the file you want to download:
 ![Snake Game Folder](./README/Snake-Game-Folder.png/)
-We will be using the **Snake Game** folder for this demonstration. Ignore the `README` folder, that stores the images for the `README.md` file that you are watching right now.
+We will be using the **Snake Game** folder for this demonstration. Ignore the **README** folder, that stores the images for the `README.md` file that you are watching right now.
 1. Click on the file that ends in `.exe`:
 ![Snake Game Files](./README/Snake-Game-Files.png/)
 1. Click the Download Button:
@@ -14,7 +14,8 @@ Once you have downloaded the file, follow the steps below
 
 ## How to Keep and Run the File
 
-**Google Chrome**:
+**Google Chrome**: <br />
+al;sdjf;lakjsdlf
 * Click the arrow next to the button `Discard`
 * Select `Keep`
 
