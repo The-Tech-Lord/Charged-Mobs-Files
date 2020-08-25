@@ -45,7 +45,8 @@ Once you have followed these steps according to your browser, go to where ever y
 <div align="center"><img src="./README/Windows-File-Warning.png" /></div>
 
 <br /> To get around this click where is says `More Info`, you will then get an option called `Run Anyway`. You are now able to run the file to your heart's desire!!
-![Windows Files Warning 2](./README/Windows-File-Warning-2.png)
+
+<div align="center"><img src="./README/Windows-File-Warning-2.png" /></div>
 
 **MacOS**: <br /> 
 Yeah, I'm not paying $999 for a piece of alluminum
