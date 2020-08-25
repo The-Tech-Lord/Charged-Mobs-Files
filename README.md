@@ -40,7 +40,7 @@ Once you have downloaded the file, follow the steps below
 
 **Windows**:
 
-> Once you have followed these steps according to your browser, go to where ever you downloaded the .exe file and click on it, once you do that, on Windows, a prompt will tell you that it blocked the .exe file (**This even happens in Administrator mode**). To get around this click where is says "More Info," you will then get an option called "Run Anyway." You are now able to run the file to your heart's desire!!
+Once you have followed these steps according to your browser, go to where ever you downloaded the .exe file and click on it, once you do that, on Windows, a prompt will tell you that it blocked the .exe file (**This even happens in Administrator mode**). To get around this click where is says "More Info," you will then get an option called "Run Anyway." You are now able to run the file to your heart's desire!!
 
 **MacOS**:
 Yeah, I'm not paying $999 for a piece of alluminum
