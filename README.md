@@ -12,14 +12,14 @@ We will be using the **Snake Game** folder for this demonstration. Ignore the **
 ![How To Download a File](./README/How-To-Download-File.png/)
 Once you have downloaded the file, follow the steps below
 
-## How to Keep and Run the File
+## How to Keep/Run the File
 
 **Internet Explorer**:
 
 * Click the `Save` button or the `Run` button
 * Click the `Actions` button
 * Click the `More Options` dropdown button
-* Press `Run Anyway`
+* Press `Run Anyway` (This is a one time step for each download)
 
 **Microsoft Edge**:
 
@@ -35,3 +35,12 @@ Once you have downloaded the file, follow the steps below
 **Firefox**:
 
 * Click `Save File`
+
+## How to Always be able to Run the File
+
+**Windows**:
+
+> Once you have followed these steps according to your browser, go to where ever you downloaded the .exe file and click on it, once you do that, on Windows, a prompt will tell you that it blocked the .exe file (**This even happens in Administrator mode**). To get around this click where is says "More Info," you will then get an option called "Run Anyway." You are now able to run the file to your heart's desire!!
+
+**MacOS**:
+Yeah, I'm not paying $999 for a piece of alluminum
