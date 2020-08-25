@@ -27,13 +27,11 @@ Once you have downloaded the file, follow the steps below
 * Select `Keep`. You will then be redirected to the Microsoft Edge `Downloads` Page
 * A pop-up will occur. Click on `Show More` and select `Keep Anyway`
 
-**Google Chrome**: <br />
-You will notice a bar at the bottom of your screen that shows the downloaded file
+**Google Chrome**:
 
 * Click the arrow next to the button `Discard`
 * Select `Keep`
 
-**Firefox**: <br />
-You will get a pop-up stating whether or not you'd like to save the file
+**Firefox**:
 
 * Click `Save File`
