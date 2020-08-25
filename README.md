@@ -12,11 +12,10 @@ Update-Logs.txt = File that stores the update logs for each file
 We will be using the **Snake Game** folder for this demonstration. Ignore the **README** folder, that stores the images for the `README.md` file that you are watching right now.
 1. Click on the file that ends in `.exe`:
 ![Snake Game Files](./README/Snake-Game-Files.png/)
-1. Click the Download Button:
+1. Click the `Download` Button:
 ![How To Download a File](./README/How-To-Download-File.png/)
-Once you have downloaded the file, follow the steps below
 
-## How to Keep/Run the Executable File
+## How to Keep / Run the Executable File
 
 **Internet Explorer**:
 
@@ -34,6 +33,8 @@ Once you have downloaded the file, follow the steps below
 **Google Chrome**:
 
 * Click the arrow next to the button `Discard`
+  * If there isn't a `Discard` button 
+    just click the arrow
 * Select `Keep`
 
 **Firefox**:
