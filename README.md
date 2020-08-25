@@ -1,6 +1,10 @@
 # Charged Mobs Files
 Place where my friends can download the creations I make!
 
+```
+Update-Logs.txt = File that stores the update logs for each file
+```
+
 ## How to Download an Executable File
 
 1. Click on the folder which contains the file you want to download:
@@ -12,7 +16,7 @@ We will be using the **Snake Game** folder for this demonstration. Ignore the **
 ![How To Download a File](./README/How-To-Download-File.png/)
 Once you have downloaded the file, follow the steps below
 
-## How to Keep/Run the File
+## How to Keep/Run the Executable File
 
 **Internet Explorer**:
 
