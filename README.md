@@ -9,7 +9,7 @@ Update-Logs.txt = File that stores the update logs for each file
 
 1. Click on the folder which contains the file you want to download:
 ![Snake Game Folder](./README/Snake-Game-Folder.png/)
-We will be using the **Snake Game** folder for this demonstration. Ignore the **README** folder, that stores the images for the `README.md` file that you are watching right now. <br />
+We will be using the **Snake Game** folder for this demonstration. Ignore the **README** folder, that stores the images for the `README.md` file that you are watching right now.
 1. Click on the file that ends in `.exe`:
 ![Snake Game Files](./README/Snake-Game-Files.png/)
 1. Click the `Download` Button:
