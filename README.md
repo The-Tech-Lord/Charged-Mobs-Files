@@ -1,10 +1,6 @@
 # Charged Mobs Files
 Place where my friends can download the creations I make!
 
-```
-Update-Logs.txt = File that stores the update logs for each file
-```
-
 ## How to Download an Executable File
 
 1. Click on the folder which contains the file you want to download:
