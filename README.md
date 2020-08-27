@@ -1,6 +1,8 @@
 # Charged Mobs Files
 Place where my friends can download the creations I make!
 
+The READMD.md files in the other folders for the games / creations I've made tell you how to play / use the application.
+
 ## How to Download an Executable File
 
 1. Click on the folder which contains the file you want to download:
