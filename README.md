@@ -4,9 +4,9 @@ Place where my friends can download the creations I make!
 <hr>
 
 ### Things to Know
-The `READMD.md` files in the other folders for the games / creations I've made tell you how to play / use the application. The `.exe` files are executable files which can be run.
-
-The `Update-Logs.txt` files are to log the updates I make to what stuff I've made like a game.
+`README.md`: Will tell you about the application I've made and how to use it
+`Update-Logs.txt`: These files are used to keep track of updates that I make
+`SomeFileName.exe`: The executable file that you want to run
 
 <hr>
 
