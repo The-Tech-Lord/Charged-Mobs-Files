@@ -7,7 +7,7 @@ Place where my friends can download the creations I make!
 `README.md`: Will tell you about the application I've made and how to use it <br />
 `Update-Logs.txt`: These files are used to keep track of updates that I make <br />
 `SomeFileName.exe`: The executable file that you want to run <br />
-`Z_README` Folder: That folder is used to hold stuff like images for the `README.md` files. Each folder will have a separate &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; version
+`Z_README` Folder: That folder is used to hold stuff like images for the `README.md` files. Each folder will have a separate &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp; version
 
 <hr>
 
