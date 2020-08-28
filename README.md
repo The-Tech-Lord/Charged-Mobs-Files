@@ -4,9 +4,9 @@ Place where my friends can download the creations I make!
 <hr>
 
 ### Things to Know
-The READMD.md files in the other folders for the games / creations I've made tell you how to play / use the application. The `.exe` files are executable files which can be run.
+The `READMD.md` files in the other folders for the games / creations I've made tell you how to play / use the application. The `.exe` files are executable files which can be run.
 
-The Update-Logs.txt files are to log the updates I make to what stuff I've made like a game.
+The `Update-Logs.txt` files are to log the updates I make to what stuff I've made like a game.
 
 <hr>
 
