@@ -4,9 +4,9 @@ Place where my friends can download the creations I make!
 <hr>
 
 ### Things to Know
-`README.md`: Will tell you about the application I've made and how to use it
-`Update-Logs.txt`: These files are used to keep track of updates that I make
-`SomeFileName.exe`: The executable file that you want to run
+`README.md`: Will tell you about the application I've made and how to use it <br />
+`Update-Logs.txt`: These files are used to keep track of updates that I make <br />
+`SomeFileName.exe`: The executable file that you want to run <br />
 
 <hr>
 
