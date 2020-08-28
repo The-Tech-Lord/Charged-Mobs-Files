@@ -14,7 +14,9 @@ Place where my friends can download the creations I make!
 ## How to Download an Executable File
 
 1. Click on the folder which contains the file you want to download: <br />
-![Snake Game Folder](./Z_README/Snake-Game-Folder.png/)
+
+<div><img src="./Z_README/Snake-Game-Folder.png/" /></div>
+
 We will be using the **Snake Game** folder for this demonstration. Ignore the **Z_README** folder, that stores the images for the `Z_README.md` file that you are watching right now.
 1. Click on the file that ends in `.exe`: <br />
 ![Snake Game Files](./Z_README/Snake-Game-Files.png/)
