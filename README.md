@@ -6,6 +6,8 @@ The READMD.md files in the other folders for the games / creations I've made tel
 
 The Update-Logs.txt files are to log the updates I make to what stuff I've made like a game.
 
+<hr>
+
 ## How to Download an Executable File
 
 1. Click on the folder which contains the file you want to download:
