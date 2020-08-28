@@ -1,6 +1,8 @@
 # Charged Mobs Files
 Place where my friends can download the creations I make!
 
+<hr>
+
 ### Things to Know
 The READMD.md files in the other folders for the games / creations I've made tell you how to play / use the application. The `.exe` files are executable files which can be run.
 
