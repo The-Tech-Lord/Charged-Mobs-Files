@@ -54,11 +54,11 @@ Most of you should know this but if you don't know how to do this, I've written 
 
 Once you have followed these steps according to your browser, go to where ever you downloaded the .exe file and click on it, once you do that, on Windows, a prompt will tell you that it blocked the .exe file (**This even happens in Administrator mode**). <br />
 
-<div align="center"><img src="./Z_README/Windows-File-Warning.png" width=512 /></div>
+<img src="./Z_README/Windows-File-Warning.png" width=512 align="center" /><img src="./Z_README/Windows-File-Warning-2.png" width=512 align="center"/>
 
 <br /> To get around this click where is says `More Info`, you will then get an option called `Run Anyway`. You are now able to run the file to your heart's desire!!
 
-<div align="center"><img src="./Z_README/Windows-File-Warning-2.png" width=512 /></div>
+
 
 **MacOS**: <br /> 
 Yeah, I'm not paying $999 for a piece of alluminum
