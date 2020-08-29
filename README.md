@@ -57,7 +57,7 @@ Once you have followed these steps according to your browser, go to where ever y
 
 
 <div align="center">
-	<img src="./Z_README/Windows-File-Warning.png" /> <img src="./Z_README/Windows-File-Warning-2.png" />
+	<img src="./Annotation 2020-08-28 221502.png" width="400" /> <img src="./Annotation 2020-08-28 221516.png" width="400" />
 </div>
 
 **MacOS**: <br /> 
