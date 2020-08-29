@@ -54,7 +54,7 @@ Most of you should know this but if you don't know how to do this, I've written 
 
 Once you have followed these steps according to your browser, go to where ever you downloaded the .exe file and click on it, once you do that, on Windows, a prompt will tell you that it blocked the .exe file (**This even happens in Administrator mode**). <br />
 
-<img src="./Z_README/Windows-File-Warning.png" width=399 align="left" /><img src="./Z_README/Windows-File-Warning-2.png" width=399 align="right" />
+<div><img src="./Z_README/Windows-File-Warning.png" width=399 align="left" /><img src="./Z_README/Windows-File-Warning-2.png" width=399 align="right" /></div>
 
 <br />
 
