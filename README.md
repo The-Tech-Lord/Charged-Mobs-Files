@@ -23,7 +23,7 @@ We will be using the **Snake Game** folder for this demonstration. Ignore the **
 
 ## How to Keep / Run the Executable File
 
-Most of you should know this but if you don't know how to do this, I've written out how to do it. When you download the file, you should see a bar at the bottom of your screen that shows the downloaded file; With FireFox, it will instead show a popup showing the file you want to download.
+Most of you should know this but if you don't know how to do this, I've written out how to do it. When you download the file, you should see a bar at the bottom of your screen that shows the downloaded file; With FireFox, it will instead show a popup showing the file you want to download. If you already know how to do this, then you can skip this part and do the rest yourself.
 
 **Internet Explorer**:
 
