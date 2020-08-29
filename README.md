@@ -56,4 +56,10 @@ Once you have followed these steps according to your browser, go to where ever y
 
 <img src="./Z_README/Windows-File-Warning.png" width=399 align="left" /><img src="./Z_README/Windows-File-Warning-2.png" width=399 align="right" />
 
+<br /> To get around this click where is says `More Info`, you will then get an option called `Run Anyway`. You are now able to run the file to your heart's desire!!
 
+**MacOS**: <br /> 
+Yeah, I'm not paying $999 for a piece of alluminum
+
+**Ubuntu**: <br />
+*Coming Soon*
