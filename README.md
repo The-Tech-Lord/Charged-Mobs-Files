@@ -15,7 +15,7 @@ Place where my friends can download the creations I make!
 
 1. Click on the folder which contains the file you want to download: <br />
 ![Snake Game Folder](./Z_README/Snake-Game-Folder.png/)
-We will be using the **Snake Game** folder for this demonstration. Ignore the **Z_README** folder, that stores the images for the `Z_README.md` file that you are watching right now.
+We will be using the **Snake Game** folder for this demonstration. Ignore the **Z_README** folders, they store stuff like images or extra files for the `Z_README.md` files that you will encounter in the other folders.
 1. Click on the file that ends in `.exe`: <br />
 ![Snake Game Files](./Z_README/Snake-Game-Files.png/)
 1. Click the `Download` Button: <br />
