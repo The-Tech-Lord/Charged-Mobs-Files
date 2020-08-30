@@ -50,7 +50,7 @@ Most of you should know this but if you don't know how to do this, I've written 
 
 ## How to Always be able to Run the File
 
-**Windows**:
+**Windows 10**:
 
 Once you have followed these steps according to your browser, go to where ever you downloaded the .exe file and click on it, once you do that, on Windows, a prompt will tell you that it blocked the .exe file (**This even happens in Administrator mode**). To get around this click where is says `More Info`, you will then get an option called `Run Anyway`. You are now able to run the file to your heart's desire!! <br />
 
