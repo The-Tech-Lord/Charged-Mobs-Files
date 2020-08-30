@@ -13,7 +13,7 @@ Place where my friends can download the creations I make!
 
 ## How to Download an Executable File
 
-We will be using the **Snake Game** folder for this demonstration. Ignore the **Z_README** folder, that stores the images for the `Z_README.md` file that you are watching right now. You will also encounter other `Z_README` folders in the other folders which will hold stuff like files and/or images for the `README.md` files that contain stuff like instructions for how to use the file.
+We will be using the **Snake Game** folder for this demonstration. Ignore the **Z\_README** folder, that stores the images for the **Z\_README.md** file that you are watching right now. You will also encounter other **Z\_README** folders in the other folders which will hold stuff like files and/or images for the `README.md` files that contain stuff like instructions for how to use the file.
 
 1. Click on the folder which contains the file you want to download: <br />
 ![Snake Game Folder](./Z_README/Snake-Game-Folder.png/)
